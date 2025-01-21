@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192468342798",
+    "project_id": "hookup4u-6be59",
+    "storage_bucket": "hookup4u-6be59.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192468342798:android:e063f16e97a4410ece445f",
+        "android_client_info": {
+          "package_name": "com.deligence.soloparent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf2tFDkkZ6I4GMx8Dplujb3yGglP02AXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
